@@ -19,10 +19,17 @@
             "heading_size": "h0"
           }
         },
+        "text_BWqzUt": {
+          "type": "text",
+          "settings": {
+            "text": "Tambores Chamánicos y sonajas ceremoniales de madera y cuero diseñados con geometría y numerología sagrada Lakota. Fabricados a mano en Chile hace más de 20 años por Ruka Manke Kalkin. Su uso es principalmente para ceremonias de medicina como también para instrucción de tambor, sonaja y canto.",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Colección",
+            "button_label_1": "Ver Colección",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading",
+        "text_BWqzUt",
         "button"
       ],
       "settings": {
