@@ -57,77 +57,6 @@
         "show_text_below": false
       }
     },
-    "featured_product_HdH4iQ": {
-      "type": "featured-product",
-      "blocks": {
-        "text_XjaDpa": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
-        "title_ffCyFe": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_E6CyNy": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_afCkYB": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_6Wqn9B": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_77MJGe": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_UKFAam": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_XjaDpa",
-        "title_ffCyFe",
-        "price_E6CyNy",
-        "variant_picker_afCkYB",
-        "quantity_selector_6Wqn9B",
-        "buy_buttons_77MJGe",
-        "share_UKFAam"
-      ],
-      "settings": {
-        "product": "tambor-chamanico-para-sonoterapia-ceremonia-y-canto",
-        "color_scheme": "",
-        "secondary_background": true,
-        "media_size": "large",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -159,7 +88,6 @@
   },
   "order": [
     "image_banner",
-    "featured_product_HdH4iQ",
     "featured_collection"
   ]
 }
