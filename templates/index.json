@@ -675,16 +675,6 @@
         "show_text_below": true
       }
     },
-    "contact_form_PNpigD": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Inscríbete en nuestras ceremonias de Temazcal.",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_7XA9kC": {
       "type": "multicolumn",
       "blocks": {
@@ -709,8 +699,8 @@
         "column_V8Mf6D": {
           "type": "column",
           "settings": {
-            "title": "Columna",
-            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "title": "EL PROCESO",
+            "text": "<p>Se realiza un proceso de descarnado y retiro de grasa y se le quita el pelo para luego ser estacado y secado al sol. De esta manera la piel ya no sede más en el tambor. Una vez estirado el cuero se realiza una selección de las zonas que serán de uso para los parches del tambor y otras para las cuerdas. Luego se vuelve  a mojar los parches y discos  para cortar los tientos y obtener asi las cuerdas que son cortadas a mano.</p>",
             "link_label": "",
             "link": ""
           }
@@ -722,20 +712,20 @@
         "column_V8Mf6D"
       ],
       "settings": {
-        "title": "Varias columnas",
-        "heading_size": "h1",
+        "title": "INSTRUMENTOS ANCESTRALES PARA USO RITUAL Y CEREMONIAL",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Etiqueta de botón",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 52,
+        "padding_bottom": 60
       }
     }
   },
@@ -750,7 +740,6 @@
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
     "image_banner_qMJFNB",
-    "contact_form_PNpigD",
     "multicolumn_7XA9kC"
   ]
 }
