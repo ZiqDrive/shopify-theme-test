@@ -58,6 +58,59 @@
         "show_text_below": false
       }
     },
+    "multicolumn_7XA9kC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dkhMWq": {
+          "type": "column",
+          "settings": {
+            "title": "LA TRADICIÓN",
+            "text": "<p>Cada tambor usa entre 7 y 10 metros de cuerda de una sola pieza  dependiendo del diámetro del tambor. Luego se realiza el proceso de  encordado y tejido tradicional de 16 puntos de  tensión. Formando una cruz de 4 direcciones que se genera al unir al centro las 32 secciones de la cuerda que forma el tejido. Todo el tramado ancestral plasmado en este tambor medicina contiene geometría y numerología sagrada Lakota.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WjzrL9": {
+          "type": "column",
+          "settings": {
+            "title": "LAS PIELES",
+            "text": "<p>Las pieles de vacuno son recicladas de faenadora de carne comercial. Son seleccionadas y escogidas especialmente para obtener la mejor piel para el buen sonido de nuestros tambores. Son curtidas a mano de forma artesanal sin químicos, por el mismo artesano quien confecciona todo el proceso del tambor. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_V8Mf6D": {
+          "type": "column",
+          "settings": {
+            "title": "EL PROCESO",
+            "text": "<p>Se realiza un proceso de descarnado y retiro de grasa y se le quita el pelo para luego ser estacado y secado al sol. De esta manera la piel ya no sede más en el tambor. Una vez estirado el cuero se realiza una selección de las zonas que serán de uso para los parches del tambor y otras para las cuerdas. Luego se vuelve  a mojar los parches y discos  para cortar los tientos y obtener asi las cuerdas que son cortadas a mano.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dkhMWq",
+        "column_WjzrL9",
+        "column_V8Mf6D"
+      ],
+      "settings": {
+        "title": "INSTRUMENTOS ANCESTRALES PARA USO RITUAL Y CEREMONIAL",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 60
+      }
+    },
     "featured_product_AyY7E3": {
       "type": "featured-product",
       "blocks": {
@@ -674,63 +727,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "multicolumn_7XA9kC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dkhMWq": {
-          "type": "column",
-          "settings": {
-            "title": "LA TRADICIÓN",
-            "text": "<p>Cada tambor usa entre 7 y 10 metros de cuerda de una sola pieza  dependiendo del diámetro del tambor. Luego se realiza el proceso de  encordado y tejido tradicional de 16 puntos de  tensión. Formando una cruz de 4 direcciones que se genera al unir al centro las 32 secciones de la cuerda que forma el tejido. Todo el tramado ancestral plasmado en este tambor medicina contiene geometría y numerología sagrada Lakota.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_WjzrL9": {
-          "type": "column",
-          "settings": {
-            "title": "LAS PIELES",
-            "text": "<p>Las pieles de vacuno son recicladas de faenadora de carne comercial. Son seleccionadas y escogidas especialmente para obtener la mejor piel para el buen sonido de nuestros tambores. Son curtidas a mano de forma artesanal sin químicos, por el mismo artesano quien confecciona todo el proceso del tambor. </p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_V8Mf6D": {
-          "type": "column",
-          "settings": {
-            "title": "EL PROCESO",
-            "text": "<p>Se realiza un proceso de descarnado y retiro de grasa y se le quita el pelo para luego ser estacado y secado al sol. De esta manera la piel ya no sede más en el tambor. Una vez estirado el cuero se realiza una selección de las zonas que serán de uso para los parches del tambor y otras para las cuerdas. Luego se vuelve  a mojar los parches y discos  para cortar los tientos y obtener asi las cuerdas que son cortadas a mano.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dkhMWq",
-        "column_WjzrL9",
-        "column_V8Mf6D"
-      ],
-      "settings": {
-        "title": "INSTRUMENTOS ANCESTRALES PARA USO RITUAL Y CEREMONIAL",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
     "image_banner",
+    "multicolumn_7XA9kC",
     "featured_product_AyY7E3",
     "featured_product_THrFda",
     "featured_product_qAXD4V",
@@ -739,7 +740,6 @@
     "featured_product_3rCArn",
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
-    "image_banner_qMJFNB",
-    "multicolumn_7XA9kC"
+    "image_banner_qMJFNB"
   ]
 }
