@@ -626,123 +626,14 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_HcRFL8": {
-      "type": "featured-product",
-      "blocks": {
-        "text_6DJF7b": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_DDHtpJ": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_wDhPtG": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_kRxehU": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_HNyHL7": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_tMhxwx": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_nyeKn9": {
-          "type": "share",
-          "settings": {
-            "share_label": "Compartir"
-          }
-        }
-      },
-      "block_order": [
-        "text_6DJF7b",
-        "title_DDHtpJ",
-        "price_wDhPtG",
-        "variant_picker_kRxehU",
-        "quantity_selector_HNyHL7",
-        "buy_buttons_tMhxwx",
-        "share_nyeKn9"
-      ],
+    "contact_form_PNpigD": {
+      "type": "contact-form",
       "settings": {
-        "product": "temazcales-chile",
+        "heading": "Inscríbete en nuestras ceremonias de Temazcal.",
+        "heading_size": "h1",
         "color_scheme": "",
-        "secondary_background": true,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_nRY8pc": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_GCke68": {
-          "type": "heading",
-          "settings": {
-            "heading": "Inscríbete en nuestras ceremonias de Temazcal",
-            "heading_size": "h2"
-          }
-        },
-        "text_gwKPn7": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_MYDPzB": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Etiqueta de botón",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Etiqueta de botón",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_GCke68",
-        "text_gwKPn7",
-        "buttons_MYDPzB"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/temazcal08.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     }
   },
@@ -756,7 +647,6 @@
     "featured_product_3rCArn",
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
-    "featured_product_HcRFL8",
-    "image_banner_nRY8pc"
+    "contact_form_PNpigD"
   ]
 }
