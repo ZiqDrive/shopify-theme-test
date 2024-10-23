@@ -118,7 +118,7 @@
       "add_to_cart": "Add to cart",
       "choose_options": "Choose options",
       "choose_product_options": "Choose options for {{ product_name }}",
-      "description": "Description",
+      "description": "Descripción",
       "inventory_in_stock": "In stock",
       "inventory_in_stock_show_count": "{{ quantity }} in stock",
       "inventory_low_stock": "Low stock",
@@ -139,7 +139,7 @@
         "play_video": "Play video"
       },
       "quantity": {
-        "label": "Quantity",
+        "label": "Cantidad",
         "input_label": "Quantity for {{ product }}",
         "increase": "Increase quantity for {{ product }}",
         "decrease": "Decrease quantity for {{ product }}",
