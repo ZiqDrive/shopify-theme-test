@@ -117,7 +117,7 @@
       "settings": {
         "product": "tambor-chamanico-para-sonoterapia-ceremonia-y-canto",
         "color_scheme": "",
-        "secondary_background": false,
+        "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -188,7 +188,7 @@
       "settings": {
         "product": "sonajas-para-uso-ritual",
         "color_scheme": "",
-        "secondary_background": false,
+        "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
