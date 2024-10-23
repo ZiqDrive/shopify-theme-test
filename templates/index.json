@@ -625,6 +625,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_HcRFL8": {
+      "type": "featured-product",
+      "blocks": {
+        "text_6DJF7b": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_DDHtpJ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_wDhPtG": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_kRxehU": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_HNyHL7": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_tMhxwx": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_nyeKn9": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        }
+      },
+      "block_order": [
+        "text_6DJF7b",
+        "title_DDHtpJ",
+        "price_wDhPtG",
+        "variant_picker_kRxehU",
+        "quantity_selector_HNyHL7",
+        "buy_buttons_tMhxwx",
+        "share_nyeKn9"
+      ],
+      "settings": {
+        "product": "temazcales-chile",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -636,6 +707,7 @@
     "featured_product_fnmEJN",
     "featured_product_3rCArn",
     "featured_product_gHKaTF",
-    "featured_product_gT3Wip"
+    "featured_product_gT3Wip",
+    "featured_product_HcRFL8"
   ]
 }
