@@ -56,9 +56,81 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "featured_product_AyY7E3": {
+      "type": "featured-product",
+      "blocks": {
+        "text_cJMqMz": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_36k47E": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_dhjrX7": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_K3NdhB": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_KtBmzJ": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_JwKJtW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_ydF6ft": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_cJMqMz",
+        "title_36k47E",
+        "price_dhjrX7",
+        "variant_picker_K3NdhB",
+        "quantity_selector_KtBmzJ",
+        "buy_buttons_JwKJtW",
+        "share_ydF6ft"
+      ],
+      "settings": {
+        "product": "tambor-chamanico-para-sonoterapia-ceremonia-y-canto",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "image_banner"
+    "image_banner",
+    "featured_product_AyY7E3"
   ]
 }
