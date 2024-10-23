@@ -63,7 +63,7 @@
         "text_XjaDpa": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
           }
         },
