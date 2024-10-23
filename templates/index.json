@@ -64,7 +64,7 @@
         "text_cJMqMz": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "RUKA MANKE KALKIN",
             "text_style": "uppercase"
           }
         },
