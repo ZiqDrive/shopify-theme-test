@@ -199,11 +199,83 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_qAXD4V": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Dnw4zJ": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_en79UY": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ceXTWW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_FF6m94": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_CPAbr6": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_B6fii6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_yBjmXR": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        }
+      },
+      "block_order": [
+        "text_Dnw4zJ",
+        "title_en79UY",
+        "price_ceXTWW",
+        "variant_picker_FF6m94",
+        "quantity_selector_CPAbr6",
+        "buy_buttons_B6fii6",
+        "share_yBjmXR"
+      ],
+      "settings": {
+        "product": "tambor-chamanico-de-cuero-de-venado",
+        "color_scheme": "",
+        "secondary_background": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_product_AyY7E3",
-    "featured_product_THrFda"
+    "featured_product_THrFda",
+    "featured_product_qAXD4V"
   ]
 }
