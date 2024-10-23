@@ -727,6 +727,16 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "contact_form_JDTxnw": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Inscríbete en nuestros Temazcales",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -740,6 +750,7 @@
     "featured_product_3rCArn",
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
-    "image_banner_qMJFNB"
+    "image_banner_qMJFNB",
+    "contact_form_JDTxnw"
   ]
 }
