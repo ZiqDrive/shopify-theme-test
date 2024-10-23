@@ -341,6 +341,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_fnmEJN": {
+      "type": "featured-product",
+      "blocks": {
+        "text_9zwNxW": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_8km4tQ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_BbPYdW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_jNMHi8": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_M8rfHQ": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_QKfr3p": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_x4fxWr": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        }
+      },
+      "block_order": [
+        "text_9zwNxW",
+        "title_8km4tQ",
+        "price_BbPYdW",
+        "variant_picker_jNMHi8",
+        "quantity_selector_M8rfHQ",
+        "buy_buttons_QKfr3p",
+        "share_x4fxWr"
+      ],
+      "settings": {
+        "product": "tambor-para-temazcal",
+        "color_scheme": "",
+        "secondary_background": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -348,6 +419,7 @@
     "featured_product_AyY7E3",
     "featured_product_THrFda",
     "featured_product_qAXD4V",
-    "featured_product_KmyFiY"
+    "featured_product_KmyFiY",
+    "featured_product_fnmEJN"
   ]
 }
