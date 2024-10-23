@@ -684,6 +684,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_7XA9kC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dkhMWq": {
+          "type": "column",
+          "settings": {
+            "title": "LA TRADICIÓN",
+            "text": "<p>Cada tambor usa entre 7 y 10 metros de cuerda de una sola pieza  dependiendo del diámetro del tambor. Luego se realiza el proceso de  encordado y tejido tradicional de 16 puntos de  tensión. Formando una cruz de 4 direcciones que se genera al unir al centro las 32 secciones de la cuerda que forma el tejido. Todo el tramado ancestral plasmado en este tambor medicina contiene geometría y numerología sagrada Lakota.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WjzrL9": {
+          "type": "column",
+          "settings": {
+            "title": "Columna",
+            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_V8Mf6D": {
+          "type": "column",
+          "settings": {
+            "title": "Columna",
+            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dkhMWq",
+        "column_WjzrL9",
+        "column_V8Mf6D"
+      ],
+      "settings": {
+        "title": "Varias columnas",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etiqueta de botón",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -697,6 +750,7 @@
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
     "image_banner_qMJFNB",
-    "contact_form_PNpigD"
+    "contact_form_PNpigD",
+    "multicolumn_7XA9kC"
   ]
 }
