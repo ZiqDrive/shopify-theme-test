@@ -13,6 +13,17 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "brand_information_zCHbMC": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "brand_information_zCHbMC"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
