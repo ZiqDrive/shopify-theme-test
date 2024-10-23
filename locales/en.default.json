@@ -37,7 +37,7 @@
         "tiktok": "TikTok"
       }
     },
-    "continue_shopping": "Continue shopping",
+    "continue_shopping": "Continua comprando",
     "pagination": {
       "label": "Pagination",
       "page": "Page {{ number }}",
@@ -50,8 +50,8 @@
     },
     "cart": {
       "view": "View cart ({{ count }})",
-      "view_empty_cart": "View cart",
-      "item_added": "Item added to your cart"
+      "view_empty_cart": "Ver carro",
+      "item_added": "Artículo añadido a tu carro"
     },
     "share": {
       "close": "Close share",
