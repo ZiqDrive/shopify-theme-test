@@ -685,7 +685,7 @@
       "settings": {
         "product": "temazcales-chile",
         "color_scheme": "",
-        "secondary_background": false,
+        "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
