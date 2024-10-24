@@ -3598,6 +3598,6 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
-.slider-mobile-gutter {
-  color-scheme: black;
+.multicolumn color-scheme-4 gradient background-primary {
+background-color: rgb(var(--color-foreground));
 }
