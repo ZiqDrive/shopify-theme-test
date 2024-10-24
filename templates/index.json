@@ -58,10 +58,10 @@
         "show_text_below": false
       }
     },
-    "multicolumn_7XA9kC": {
+    "multicolumn_nkRPzk": {
       "type": "multicolumn",
       "blocks": {
-        "column_dkhMWq": {
+        "column_XhHXWB": {
           "type": "column",
           "settings": {
             "title": "LA TRADICIÓN",
@@ -70,7 +70,7 @@
             "link": ""
           }
         },
-        "column_WjzrL9": {
+        "column_KTJ3aj": {
           "type": "column",
           "settings": {
             "title": "LAS PIELES",
@@ -79,7 +79,7 @@
             "link": ""
           }
         },
-        "column_V8Mf6D": {
+        "column_KgD8c3": {
           "type": "column",
           "settings": {
             "title": "EL PROCESO",
@@ -90,9 +90,9 @@
         }
       },
       "block_order": [
-        "column_dkhMWq",
-        "column_WjzrL9",
-        "column_V8Mf6D"
+        "column_XhHXWB",
+        "column_KTJ3aj",
+        "column_KgD8c3"
       ],
       "settings": {
         "title": "INSTRUMENTOS ANCESTRALES PARA USO RITUAL Y CEREMONIAL",
@@ -104,7 +104,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 52,
@@ -741,7 +741,7 @@
   },
   "order": [
     "image_banner",
-    "multicolumn_7XA9kC",
+    "multicolumn_nkRPzk",
     "featured_product_AyY7E3",
     "featured_product_THrFda",
     "featured_product_qAXD4V",
