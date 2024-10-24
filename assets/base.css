@@ -3598,6 +3598,6 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
-.color-scheme-4 {
+color-scheme-4 {
 background-color: (--color-foreground:black);
 }
