@@ -3599,5 +3599,5 @@ details-disclosure > details {
   }
 }
 .multicolumn color-scheme-4 gradient background-primary {
-background-color: rgb(var(--color-foreground));
+background-color: black(--color-foreground));
 }
