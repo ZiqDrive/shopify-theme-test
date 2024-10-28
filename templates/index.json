@@ -737,6 +737,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_gWikiX": {
+      "type": "featured-product",
+      "blocks": {
+        "text_VARm3m": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_GQnBNM": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_rAEWTV": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_Hig4LP": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_JDX4T8": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_tUd93N": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_V4E9cM": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        }
+      },
+      "block_order": [
+        "text_VARm3m",
+        "title_GQnBNM",
+        "price_rAEWTV",
+        "variant_picker_Hig4LP",
+        "quantity_selector_JDX4T8",
+        "buy_buttons_tUd93N",
+        "share_V4E9cM"
+      ],
+      "settings": {
+        "product": "pow-wow-ceremoniial",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -751,6 +822,7 @@
     "featured_product_gHKaTF",
     "featured_product_gT3Wip",
     "image_banner_qMJFNB",
-    "contact_form_JDTxnw"
+    "contact_form_JDTxnw",
+    "featured_product_gWikiX"
   ]
 }
