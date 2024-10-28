@@ -13,5 +13,16 @@
     "market": "cl"
   },
   "sections": {
+    "image_banner_qMJFNB": {
+      "settings": {
+      },
+      "blocks": {
+        "buttons_YF4gKi": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      }
+    }
   }
 }
