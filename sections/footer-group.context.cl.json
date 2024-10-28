@@ -13,5 +13,16 @@
     "market": "cl"
   },
   "sections": {
+    "footer": {
+      "settings": {
+      },
+      "blocks": {
+        "brand_information_zCHbMC": {
+          "disabled": false,
+          "settings": {
+          }
+        }
+      }
+    }
   }
 }
