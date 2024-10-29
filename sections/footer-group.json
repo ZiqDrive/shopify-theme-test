@@ -14,13 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "image_ikyiyH": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
         "brand_information_zCHbMC": {
           "type": "brand_information",
           "settings": {
@@ -29,7 +22,6 @@
         }
       },
       "block_order": [
-        "image_ikyiyH",
         "brand_information_zCHbMC"
       ],
       "settings": {
