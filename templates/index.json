@@ -97,7 +97,7 @@
       "settings": {
         "title": "INSTRUMENTOS ANCESTRALES PARA USO RITUAL Y CEREMONIAL",
         "heading_size": "h2",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
@@ -808,6 +808,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_LzFXek": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tkhwAe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Imagen con texto",
+            "heading_size": "h1"
+          }
+        },
+        "text_wXVtfn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>X</p>",
+            "text_style": "body"
+          }
+        },
+        "button_G3ErYR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etiqueta de botón",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tkhwAe",
+        "text_wXVtfn",
+        "button_G3ErYR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/4ba51df5-5380-4339-b3bb-58b744f276a1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -823,6 +870,7 @@
     "featured_product_gT3Wip",
     "featured_product_gWikiX",
     "image_banner_qMJFNB",
-    "contact_form_JDTxnw"
+    "contact_form_JDTxnw",
+    "image_with_text_LzFXek"
   ]
 }
