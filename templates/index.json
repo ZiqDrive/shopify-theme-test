@@ -64,7 +64,7 @@
         "caption_cNVbFt": {
           "type": "caption",
           "settings": {
-            "caption": "Hermoso espíritu del agua llega ya, curando purificando, llega ya Hermoso pajaro del agua, llega ya Curando purificando, llega ya En el corazón de este fuego, soplan ya Cuatro vientos en el centro, soplan ya En el corazón de este fuego, brillan ya Siete flechas en el centro, brillan ya.",
+            "caption": "Hermoso espíritu del agua llega ya, curando purificando, llega ya Hermoso pajaro del agua, llega ya Curando purificando, llega ya En el corazón de este fuego, soplan ya Cuatro vientos en el centro, soplan ya En el corazón de este fuego, brillan ya siete flechas en el centro, brillan ya.",
             "text_style": "subtitle",
             "text_size": "large"
           }
@@ -91,7 +91,7 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "padding_top": 40,
         "padding_bottom": 36
