@@ -64,7 +64,7 @@
         "caption_cNVbFt": {
           "type": "caption",
           "settings": {
-            "caption": "Agregar un eslogan",
+            "caption": "",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
