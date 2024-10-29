@@ -149,7 +149,7 @@
     "blocks": {
       "5394799768760407377": {
         "type": "shopify://apps/whatsapp-chat-button/blocks/widget/766ee640-8263-4564-82fe-7d2909b243ad",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
@@ -157,7 +157,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#fff7e7",
+          "background": "#e5dfd5",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
