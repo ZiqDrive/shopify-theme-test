@@ -815,7 +815,7 @@
         "heading_tkhwAe": {
           "type": "heading",
           "settings": {
-            "heading": "Imagen con texto",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -825,20 +825,11 @@
             "text": "<p>X</p>",
             "text_style": "body"
           }
-        },
-        "button_G3ErYR": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etiqueta de botón",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_tkhwAe",
-        "text_wXVtfn",
-        "button_G3ErYR"
+        "text_wXVtfn"
       ],
       "settings": {
         "image": "shopify://shop_images/4ba51df5-5380-4339-b3bb-58b744f276a1.jpg",
