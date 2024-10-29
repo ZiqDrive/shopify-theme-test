@@ -23,6 +23,13 @@
           }
         }
       }
+    },
+    "multicolumn_nkRPzk": {
+      "settings": {
+        "image_ratio": "adapt"
+      },
+      "blocks": {
+      }
     }
   }
 }
