@@ -236,7 +236,7 @@
         "variant_picker_K3NdhB": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "swatch_shape": "circle"
           }
         },
