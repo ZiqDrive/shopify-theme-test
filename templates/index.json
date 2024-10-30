@@ -278,7 +278,7 @@
         "media_position": "left",
         "image_zoom": "lightbox",
         "hide_variants": false,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
